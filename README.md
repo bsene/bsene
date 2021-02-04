@@ -1,4 +1,4 @@
-### Hi my name is mentionned at the left side ;), I usually work as a fullstack web developer
+### Hi my name is Birame :), I usually work as a web developer
 
 <!--
 **bsene/bsene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
