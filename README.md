@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Birame’ Github Stats](https://github-readme-stats.vercel.app/api?username=bsene)
+
+
 - 🔭 I'm currently working at [Keyprod](http://www.keyprod.com/) a very innovative company which [growing](https://www.welcometothejungle.com/fr/companies/jpb-systeme/jobs/developpeur-informatique-full-stack_montereau-sur-le-jard).
 - 🌱 I’m currently learning at lot about industry ecosystem within [Laravel](https://laravel.com/), [VueJS](https://vuejs.org/) and [AWS](https://aws.amazon.com) stack
 - 💬 Ask me about at my LinkedIn [profile](https://www.linkedin.com/in/%E2%9B%B5-birame-sene-%E2%9B%B5-1a7b971b/)
