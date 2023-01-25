@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Birame’ Github Stats](https://github-readme-stats.vercel.app/api?username=bsene)
 
-- 🔭 I'm working at [Zenika](http://www.zenika.com/) a very cool echnological, managerial and organizational innovation company.
+- 🔭 I'm working at [Zenika](http://www.zenika.com/) a very cool technological, managerial and organizational innovation company.
   We are currently hiring so I can check at our [jobs](https://jobs.zenika.com)
 
 - 🌱 At side, I'm
