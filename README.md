@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I'm working at [Zenika](http://www.zenika.com/) a very cool technological, managerial and organizational innovation company.
   We are currently hiring so I can check at our [jobs](https://jobs.zenika.com)
 
-- 🌱 At side, I'm
+- 🌱 At side, I'm a huge fan of functionnal programming (Haskell, Elixir, Clojure...) and working on some open source project that interest me.
 - 💬 Ask me about at my LinkedIn [profile](https://www.linkedin.com/in/%E2%9B%B5-birame-sene-%E2%9B%B5-1a7b971b/)
 - 📫 How to reach me: [Twitter]() and <img src="https://services.nexodyne.com/email/icon/w3IzFvnX%2BEid/6XK02WU%3D/R01haWw%3D/0/image.png">
