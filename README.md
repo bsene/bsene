@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ![Birame’ Github Stats](https://github-readme-stats.vercel.app/api?username=bsene)
 
+- 🔭 I'm working at [Zenika](http://www.zenika.com/) a very cool echnological, managerial and organizational innovation company.
+  We are currently hiring so I can check at our [jobs](https://jobs.zenika.com)
 
-- 🔭 I'm currently working at [Keyprod](http://www.keyprod.com/) a very innovative company which [growing](https://www.welcometothejungle.com/fr/companies/jpb-systeme/jobs/developpeur-informatique-full-stack_montereau-sur-le-jard).
-- 🌱 I’m currently learning at lot about industry ecosystem within [Laravel](https://laravel.com/), [VueJS](https://vuejs.org/) and [AWS](https://aws.amazon.com) stack
+- 🌱 At side, I'm
 - 💬 Ask me about at my LinkedIn [profile](https://www.linkedin.com/in/%E2%9B%B5-birame-sene-%E2%9B%B5-1a7b971b/)
-- 📫 How to reach me: [Twitter]() and :email: bsene[at]pm.me 
-
-
-
+- 📫 How to reach me: [Twitter]() and <img src="https://services.nexodyne.com/email/icon/w3IzFvnX%2BEid/6XK02WU%3D/R01haWw%3D/0/image.png">
