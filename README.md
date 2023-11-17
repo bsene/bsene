@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ![Birame’ Github Stats](https://github-readme-stats.vercel.app/api?username=bsene)
 
-- 🔭 I'm working at [Zenika](http://www.zenika.com/) a very cool technological, managerial and organizational innovation company.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsene&layout=compact&exclude_repo=dwm,dmenu,st-1,st,dwm-archived,DWMIM,dotfiles,ugrind)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I'm working at [Zenika](http://www.zenika.com/) a very interesting technological, managerial and organizational innovation company.
   We are currently hiring so I can check at our [jobs](https://jobs.zenika.com)
 
 - 🌱 At side, I'm a huge fan of functionnal programming (Haskell, Elixir, Clojure...) and working on some open source project that interest me.
