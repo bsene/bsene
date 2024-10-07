@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as Node.Js consultant at [Zenika](http://www.zenika.com/)
-
-
+🔭 I’m currently start a fantastic journey at [Theodo Morocco](https://www.theodo.ma/) as a Tech Lead.
+.
 ## 🌐 Socials:
 [𝕏 Twitter](https://twitter.com/mame_b)
 
